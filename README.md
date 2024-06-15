@@ -6,20 +6,22 @@ I'm a passionate software engineering student at Ort-Braude, deeply immersed in 
 
 I have a strong foundation in various programming languages and technologies, including:
 
+- **JavaScript**
+- **Typescript**
+- **Vue**
+- **React**
+- **Node.js**
 - **C**
 - **Java**
 - **Python**
-- **JavaScript**
-- **React**
-- **Node.js**
 
 My passion for coding goes beyond the languages themselves; I'm committed to creating innovative and efficient solutions to real-world problems.
 
 ### 🌟 Currently Learning
-
+- Three.js
 - Nextjs
-- Vue
-- Typescript
+- Haskell
+- Scheme
 
 ### 📬 Get in Touch
 
